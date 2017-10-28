@@ -34,7 +34,7 @@ object SwapNodes {
 
     def swap(tree: Tree, rootDepth: Int, swapDepth: Int): Unit = {
         tree match {
-            case NullPoint => {}
+            case NullPoint =>
             case n: Node => {
                 if (rootDepth % swapDepth == 0) {
                     val tmp = n.left
