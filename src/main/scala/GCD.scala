@@ -1,4 +1,4 @@
-object Solution {
+object GCD {
 
     def gcd(x: Int, y: Int): Int =
     {
