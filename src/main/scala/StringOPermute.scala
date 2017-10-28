@@ -5,8 +5,7 @@ object StringOPermute {
         val T = readInt
         for (i <- 1 to T) {
             val s = readLine
-            //val p = s.zipWithIndex.filter{ case (_, i) => i % 2 == 0 }.map{ case (c, _) => c }.mkString("")
-            s.sliding(2, 2).map{}
+            val p = s.sliding(2, 2).map(_.reverse).mkString("")
             println(p)
         }
     }
