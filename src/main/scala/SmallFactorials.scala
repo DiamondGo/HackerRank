@@ -1,6 +1,5 @@
 object SmallFactorials extends App {
     // your code goes here
-    import io.StdIn._
 
     val N = readInt
 

@@ -2,7 +2,6 @@ import scala.collection.mutable.ListBuffer
 
 object TransformTheExpression extends App {
     // your code goes here
-    import io.StdIn._
     //val N = readInt
 
     def rpn(exp : String) : String =
