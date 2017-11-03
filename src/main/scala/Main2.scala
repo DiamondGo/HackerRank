@@ -1,6 +1,5 @@
 object Main2 extends App {
     // your code goes here
-    import io.StdIn._
 
     val N = readInt
 

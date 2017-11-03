@@ -1,7 +1,6 @@
 object SwapNodes {
 
     import scala.collection.mutable
-    import scala.io.StdIn._
 
     trait Tree
     case class Node(var left: Tree, var id: Int, var right: Tree) extends Tree

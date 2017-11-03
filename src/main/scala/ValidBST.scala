@@ -1,5 +1,4 @@
 object ValidBST {
-    import io.StdIn._
 
     def isValid(values:Array[Int]): Boolean = {
         if (values.length <= 1)
