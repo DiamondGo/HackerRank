@@ -8,4 +8,5 @@ fun main(args: Array<String>) {
 
     val diff = Math.abs(matrix.withIndex().map { (i, v) -> v[i] }.sum() - matrix.withIndex().map { it.value[N - 1 - it.index] }.sum())
     println(diff)
+
 }
