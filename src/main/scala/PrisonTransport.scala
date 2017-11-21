@@ -1,5 +1,4 @@
 object PrisonTransport {
-    import io.StdIn._
     import scala.collection.mutable.Map
     import scala.collection.mutable.Set
     def main(args: Array[String]) {
