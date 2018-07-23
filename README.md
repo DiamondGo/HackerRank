@@ -1,1 +1,1 @@
-Scala for HackerRank
+HackerRank for fun.
