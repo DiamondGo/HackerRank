@@ -1,1 +1,1 @@
-HackerRank for fun.
+# vscode-kotlin-debuggable-example
