@@ -1,2 +1,6 @@
 .gradle
+.jar
 *.jar
+build
+*bak
+.vscode
