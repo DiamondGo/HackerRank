@@ -9,4 +9,4 @@
 
 rootProject.name = "CodePractice"
 
-include("hackerrank")
+include("hr-kotlin")
